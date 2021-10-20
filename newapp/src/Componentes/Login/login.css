@@ -1,0 +1,18 @@
+.login-component{
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.login-component .formulario label{
+    display: block;    
+    flex: content;
+    margin: 10px;
+    padding: 10px;
+}
+
+.login-component .formulario label input{
+    float: right;
+    width: 300px;
+}

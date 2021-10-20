@@ -1,0 +1,21 @@
+header, header nav{
+    width: 100%;
+    display: fixed;
+    z-index: 10;
+    top: 0;
+    left: 0;    
+
+}
+
+ul {
+    display: block;
+    white-space: none;
+}
+
+header ul li {
+    display: inline-block;
+    width: 200px;
+    border: 1px black solid;
+    cursor: pointer;
+    text-align: center;
+}
